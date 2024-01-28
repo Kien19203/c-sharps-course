@@ -1,0 +1,23 @@
+NHẬP MÔN LẬP TRÌNH ĐA NỀN TẢNG VỚI .NET (C#). - MÃ PRN211 - GIAOLANG <3
+
+
+
++ Kiến thức nền OOP - Java phải ổn !.
++ C CĂN BẢN : CHƯA HỌC !
+
+
++ Khóa JAVA(FULL COURSE 30 NGÀY) - C# - DATA STRUCTURE - GITHUB - TIẾNG ANH ( BẮT NỀN TOEIC)
+
++ ĐIỂM ĐẶC BIỆT CỦA MÔN : CROSS PLATFORM (ĐA NỀN TẢNG - APP CÓ THỂ CHẠY TRÊN NHIỀU HỆ ĐIỀU HÀNH)
+
+- 85' - HOÀN THÀNH 1 APP NHO NHỎ - WINDOW FORMS - CÓ CƠ SỞ DỮ LIỆU (SQL SERVER)
+
+- LỘ TRÌNH GIẢNG :(LỒNG LẠI KIẾN THỨC OOP) 
+
+-- C# sẽ học theo ngày thầy giaolang update.
+
+-- Về code : tập trung về nền Java - CSDL - Github nhé !.
+
+#Ghi chú 1.
+30:00 - Bài 1
+
